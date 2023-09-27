@@ -52,5 +52,11 @@ Our project will serve as a great resource for those with advanced knowledge in 
 ---
 
 🔵 
+<img src="https://www.freeiconspng.com/thumbs/summary-png-icon/summary-icon-png-and-since-the-procedure-24.png" width="30" height="30" />
+[Summary Video](https://drive.google.com/file/d/1flTXtm6jLg0Z_l1pyltfqXiuRKIenjYW/view?usp=drive_link "Summary Part")
+
+---
+
+🔵 
 <img src="https://icones.pro/wp-content/uploads/2021/03/icone-pdf-symbole-png-rouge.png" width="30" height="30" />
 [Details](https://drive.google.com/file/d/1tr4nkhX4Tn0q4EKuMmLwmC1UullDuQej/view?usp=sharing "Info")
